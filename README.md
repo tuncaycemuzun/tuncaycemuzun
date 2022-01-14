@@ -23,3 +23,10 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tuncaycemuzun&show_icons=true&locale=en" alt="tuncaycemuzun" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tuncaycemuzun&" alt="tuncaycemuzun" /></p>
+
+</br>
+</br>
+
+### Spotify Playing 🎧
+
+[![Spotify](https://spotify-playing-tcu.herokuapp.com/api/spotify)](https://open.spotify.com/user/tuncaycemuzun)
