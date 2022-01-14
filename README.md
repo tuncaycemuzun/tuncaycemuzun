@@ -1,64 +1,25 @@
-### Merhaba, Ben Tuncay Cem [tuncaycemuzun] 👋 
+<h1 align="center">Merhaba 👋, Ben Tuncay</h1>
+<h3 align="center">A passionate frontend developer from India</h3>
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/tuncaycemuzun?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Ftuncaycemuzun&screen_name=tuncaycemuzun)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=tuncaycemuzun&label=Profile%20views&color=0e75b6&style=flat" alt="tuncaycemuzun" /> </p>
 
-## 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tuncaycemuzun" alt="tuncaycemuzun" /></a> </p>
 
-- 🌱 Teknoloji çok hızlı gelişiyor. Ortama ayak uydurmaya çalışıyorum 🤣
-- 👯 Kodlama yapan kişilerle bir araya gelip açık kaynak bir ürün çıkartmayı hedefliyorum. 
+<p align="left"> <a href="https://twitter.com/tuncaycemuzun" target="blank"><img src="https://img.shields.io/twitter/follow/tuncaycemuzun?logo=twitter&style=for-the-badge" alt="tuncaycemuzun" /></a> </p>
 
-### Benimle İletişime Geç:
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/tuncaycemuzun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tuncaycemuzun" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/tuncaycemuzun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tuncaycemuzun" height="30" width="40" /></a>
+<a href="https://fb.com/tuncaycemuzun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tuncaycemuzun" height="30" width="40" /></a>
+<a href="https://instagram.com/tuncaycemuzun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tuncaycemuzun" height="30" width="40" /></a>
+</p>
 
-[<img align="left" alt="Tuncay Cem Uzun | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Tuncay Cem Uzun | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Tuncay Cem Uzun | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
 
-<br />
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tuncaycemuzun&show_icons=true&locale=en&layout=compact" alt="tuncaycemuzun" /></p>
 
-### Kullandığım/Öğrendiğim Teknolojiler ve Araçlar:
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tuncaycemuzun&show_icons=true&locale=en" alt="tuncaycemuzun" /></p>
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="Vue" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" />
-<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="Net Core" width="26px" src="https://camo.githubusercontent.com/9da8dcab869ba1c5c82b4499b523e33ba56f7fbd68cbf2a41ff141084896d61d/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f652f65652f2e4e45545f436f72655f4c6f676f2e7376672f3132303070782d2e4e45545f436f72655f4c6f676f2e7376672e706e67" />
-<img align="left" alt="C#" width="26px" src="https://camo.githubusercontent.com/e5f1cbf59a8752f8a31ba28ea3b788daf4c188a84870865acfc16c5567bfd5ce/68747470733a2f2f7365656b6c6f676f2e636f6d2f696d616765732f432f632d73686172702d632d6c6f676f2d303246313737313442412d7365656b6c6f676f2e636f6d2e706e67" />
-<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="PostgreSql" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-
-
-<br />
-<br />
-
-### Spotify Playing 🎧
-
-[![Spotify](https://spotify-playing-tcu.herokuapp.com/api/spotify)](https://open.spotify.com/user/tuncaycemuzun)
-
-
-  <summary>:zap: Recent GitHub Activity</summary>
-  
-<!--START_SECTION:activity-->
-1. 🗣 Commented on [#26](https://github.com/tuncaycemuzun/video-source-code-create-nft-collection/issues/26) in [tuncaycemuzun/video-source-code-create-nft-collection](https://github.com/tuncaycemuzun/video-source-code-create-nft-collection)
-2. ❗️ Closed issue [#25](https://github.com/tuncaycemuzun/video-source-code-create-nft-collection/issues/25) in [tuncaycemuzun/video-source-code-create-nft-collection](https://github.com/tuncaycemuzun/video-source-code-create-nft-collection)
-3. 🗣 Commented on [#25](https://github.com/tuncaycemuzun/video-source-code-create-nft-collection/issues/25) in [tuncaycemuzun/video-source-code-create-nft-collection](https://github.com/tuncaycemuzun/video-source-code-create-nft-collection)
-4. ❗️ Closed issue [#20](https://github.com/tuncaycemuzun/video-source-code-create-nft-collection/issues/20) in [tuncaycemuzun/video-source-code-create-nft-collection](https://github.com/tuncaycemuzun/video-source-code-create-nft-collection)
-5. ❗️ Closed issue [#23](https://github.com/tuncaycemuzun/video-source-code-create-nft-collection/issues/23) in [tuncaycemuzun/video-source-code-create-nft-collection](https://github.com/tuncaycemuzun/video-source-code-create-nft-collection)
-<!--END_SECTION:activity-->
-
-
-
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="tuncaycemuzun's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=tuncaycemuzun&show_icons=true&hide_border=true" />
-
-
-
-[website]: https://tuncaycemuzun.com
-[twitter]: https://twitter.com/tuncaycemuzun
-[instagram]: https://instagram.com/tuncaycemuzun
-[linkedin]: https://linkedin.com/in/tuncaycemuzun
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tuncaycemuzun&" alt="tuncaycemuzun" /></p>
