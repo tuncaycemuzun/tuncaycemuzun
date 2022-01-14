@@ -34,7 +34,9 @@
 
 <br />
 <br />
+### Spotify Playing 🎧
 
+[<img src="https://test-repo-eight.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/<YOUR SPOTIFY USER ID>)
 
 
   <summary>:zap: Recent GitHub Activity</summary>
