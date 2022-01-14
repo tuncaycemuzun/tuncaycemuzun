@@ -59,6 +59,6 @@
 
 </br>
 
-### Spotify Playing 🎧
+### Latest Song on Spotify 🎧
 
 [![Spotify](https://spotify-playing-tcu.herokuapp.com/api/spotify)](https://open.spotify.com/user/tuncaycemuzun)
