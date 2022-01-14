@@ -53,7 +53,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="tuncaycemuzun's GitHub Stats" src="https://github-readme-stats.tuncaycemuzun.vercel.app/api?username=tuncaycemuzun&show_icons=true&hide_border=true" />
+  <img align="left" alt="tuncaycemuzun's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=tuncaycemuzun&show_icons=true&hide_border=true" />
 
 </details>
 
