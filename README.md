@@ -37,7 +37,6 @@
 
 
 
-<details>
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
@@ -48,14 +47,13 @@
 5. ❗️ Closed issue [#23](https://github.com/tuncaycemuzun/video-source-code-create-nft-collection/issues/23) in [tuncaycemuzun/video-source-code-create-nft-collection](https://github.com/tuncaycemuzun/video-source-code-create-nft-collection)
 <!--END_SECTION:activity-->
 
-</details>
 
-<details>
+
   <summary>:zap: GitHub Stats</summary>
 
   <img align="left" alt="tuncaycemuzun's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=tuncaycemuzun&show_icons=true&hide_border=true" />
 
-</details>
+
 
 [website]: https://tuncaycemuzun.com
 [twitter]: https://twitter.com/tuncaycemuzun
