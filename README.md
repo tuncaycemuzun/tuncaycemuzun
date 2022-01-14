@@ -37,7 +37,7 @@
 
 ### Spotify Playing 🎧
 
-[![Spotify](https://test-repo-tuncaycemuzunn.vercel.app/api/spotify)](https://open.spotify.com/user/tuncaycemuzun)
+[![Spotify](https://spotify-playing-tcu.herokuapp.com/api/spotify)](https://open.spotify.com/user/tuncaycemuzun)
 
 
   <summary>:zap: Recent GitHub Activity</summary>
