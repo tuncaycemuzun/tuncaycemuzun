@@ -18,13 +18,13 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
 
-<a href="https://www.w3schools.com/cs/" target="__blank" rel="noreferrer"> 
+<a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/></a>
-<a href="https://docs.microsoft.com/tr-tr/aspnet/core/?view=aspnetcore-6.0" target="__blank" rel="noreferrer">
+<a href="https://docs.microsoft.com/tr-tr/aspnet/core/?view=aspnetcore-6.0" target="_blank" rel="noreferrer">
 <img src="https://camo.githubusercontent.com/9da8dcab869ba1c5c82b4499b523e33ba56f7fbd68cbf2a41ff141084896d61d/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f652f65652f2e4e45545f436f72655f4c6f676f2e7376672f3132303070782d2e4e45545f436f72655f4c6f676f2e7376672e706e67" alt="netcore" width="40" height="40"/></a> 
-<a href="https://getbootstrap.com" target="__blank" rel="noreferrer"> 
+<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/></a> 
-<a href="https://www.w3schools.com/css/" target="__blank" rel="noreferrer"> 
+<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a> 
 <!--<a href="https://www.docker.com/" target="__blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></a>-->
