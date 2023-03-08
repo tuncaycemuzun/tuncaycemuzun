@@ -24,10 +24,17 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/tuncaycemuzun"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="tuncaycemuzun" /></a></p><br><br>
+
 <div align="center">
-  <img height="180em" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tuncaycemuzun&show_icons=true&locale=en&layout=compact" height alt="tuncaycemuzun" />
-  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=tuncaycemuzun&show_icons=true&locale=en" alt="tuncaycemuzun" />
-  <img style="height:100%" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tuncaycemuzun&" alt="tuncaycemuzun" />
+  
+   <h3 align="center">My Stats:</h3>
+    <a href="https://github.com/tuncaycemuzun">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=tuncaycemuzun&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=tuncaycemuzun&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+<p align="center" dir="auto"><a href="https://github.com/tuncaycemuzun"><img src="https://github-readme-streak-stats.herokuapp.com/?user=tuncaycemuzun&amp;theme=algolia" width="460em" alt="tuncaycemuzun" data-canonical-src="https://github-readme-streak-stats.herokuapp.com/?user=tuncaycemuzun&amp;theme=algolia" style="max-width: 100%;"></a></p>
+   
+
 </div>
 
 
