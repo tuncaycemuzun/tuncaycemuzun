@@ -24,9 +24,10 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/tuncaycemuzun"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="tuncaycemuzun" /></a></p><br><br>
+<div align="center">
+  <img height="180em" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tuncaycemuzun&show_icons=true&locale=en&layout=compact" height alt="tuncaycemuzun" />
+  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=tuncaycemuzun&show_icons=true&locale=en" alt="tuncaycemuzun" />
+  <img style="height:100%" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tuncaycemuzun&" alt="tuncaycemuzun" />
+</div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tuncaycemuzun&show_icons=true&locale=en&layout=compact" alt="tuncaycemuzun" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tuncaycemuzun&show_icons=true&locale=en" alt="tuncaycemuzun" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tuncaycemuzun&" alt="tuncaycemuzun" /></p>
