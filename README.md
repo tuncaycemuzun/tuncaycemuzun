@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tuncaycemuzun" alt="tuncaycemuzun" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/tuncaycemuzun" target="blank"><img src="https://img.shields.io/twitter/follow/tuncaycemuzun?logo=twitter&style=for-the-badge" alt="tuncaycemuzun" /></a> </p>
-
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
